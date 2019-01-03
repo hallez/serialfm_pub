@@ -1,0 +1,20 @@
+Package: serialfm
+Title: Analyze data for Serial_FM Reuter-Lorenz lab thesis.
+Version: 0.1
+Authors@R: "Halle Dimsdale-Zucker <hrzucker@ucdavis.edu> [aut, cre]"
+Description: Loads and analyzes data from HRZ thesis (Serial_FM). 
+Depends: R (>= 3.1.1)
+License: MIT
+LazyData: true
+Imports: car (>= 2.0-25), 
+    coin(>= 1.1-3),
+    dplyr (>= 0.4.0),
+    ez (>= 4.2-2),
+    gdata(>= 2.13.2), 
+    ggplot2 (>= 1.0.1), 
+    halle(>= 0.2.0),
+    haven (>= 0.1.0), 
+    stringr (>= 1.0.0),
+    tidyr (>= 0.2.0),
+    yaml (>= 2.1.13)
+PackageUseDevtools: yes

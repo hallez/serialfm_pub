@@ -1,0 +1,6 @@
+---
+directories:
+    dropbox: <path-to-base-directory>/
+    raw_behavioral: raw_behavioral
+    scripts: scripts
+    analyzed_behavioral: analyzed_behavioral

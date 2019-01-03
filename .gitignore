@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+config.yml
+.DS_Store
+scripts/.Rbuildignore
+scripts/serialfm/.Rbuildignore
+scripts/serialfm/*.html
+raw_behavioral/
